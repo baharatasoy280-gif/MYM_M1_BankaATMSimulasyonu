@@ -21,7 +21,7 @@ fun main() {
     //in
     val yas = 25
     if (yas in 18..65) {
-        print("Çalışma çağındasınız")
+        print("Çalışma çağındasınız.")
     }
 
 
